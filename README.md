@@ -2,7 +2,8 @@
 * A customized electronic device built for the FPS Interactive White Board (Capstone Project)
 * Main Project could be found here -> [FPS Interactive Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
 ---
-Source: [/blob/main/avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/avr/main.c)
+Source File: [/blob/main/avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/avr/main.c)
+
 ---
 ## Tools:
 * Language: C
@@ -15,13 +16,7 @@ Source: [/blob/main/avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashli
   * Atmega328p (microchip)
 ---
 ## Final Product
----
-## Prototype
----
-## Diagrams
----
-#### Uploading 
----
+![](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/Diagrams%20(RGB)/Finished%20Product/Finished%20Product.png)
 
 ---
 Still work on progress...
