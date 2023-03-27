@@ -2,7 +2,7 @@
 * A customized electronic device built for the FPS Interactive White Board (Capstone Project)
 * Main Project could be found here -> [FPS Interactive Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
 ---
-# Source: [/blob/main/avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/avr/main.c)
+Source: [/blob/main/avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/avr/main.c)
 ---
 ## Tools:
 * Language: C
