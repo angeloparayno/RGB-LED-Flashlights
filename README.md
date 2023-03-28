@@ -20,7 +20,7 @@ Source File: [./avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights
 ### Finished Product
 ![](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/Diagrams%20(RGB)/Finished%20Product/Finished%20Product%202.png)
 
-### Finished Product Diagram
+### Product Diagram
 ![](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/Diagrams%20(RGB)/Finished%20Product/Diagram%20of%20Finished%20Product.png)
 ### PCB Diagram
 ![](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/Diagrams%20(RGB)/Finished%20Product/PCB%20Design.png)
