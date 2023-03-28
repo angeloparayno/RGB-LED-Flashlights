@@ -36,5 +36,6 @@ Source File: [./avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights
 ![](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/Diagrams%20(RGB)/Color%20Output/Cyan.png)
 ![](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/Diagrams%20(RGB)/Color%20Output/Magenta.png)
 ![](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/Diagrams%20(RGB)/Color%20Output/Yellow.png)
+
 ---
 Work in Progress..
