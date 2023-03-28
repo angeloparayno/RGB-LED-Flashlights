@@ -14,7 +14,7 @@ Source File: [./avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights
   * Diffused RGB LED Diode 
   * Printed Circuit Board 
   * Arduino (single-board microcontroller)
-  * Atmega328p (microchip)
+  * Attiny2313-20pu (IC)
 ---
 ## Diagram and Images
 
