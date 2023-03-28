@@ -1,5 +1,5 @@
 # RGB-LED-Flashlights
-* A customized electronic device built for the FPS Interactive White Board (Capstone Project)
+Built two customized flashlights built for the FPS Interactive White Board (Capstone Project) and encoding the C program in an Atmega328p microchip to produce the desired color per each device
 * Main Project could be found here -> [FPS Interactive Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
 ---
 Source File: [/blob/main/avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/avr/main.c)
