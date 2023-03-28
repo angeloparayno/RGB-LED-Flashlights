@@ -9,6 +9,7 @@ Source File: [./avr/main.c](https://github.com/angeloparayno/RGB-LED-Flashlights
 * Language: C
 * Library: WinAVR 
 * Software: Arduino IDE
+* Driver: PL2303 Prolific Driver
 * Hardware: 
   * Diffused RGB LED Diode 
   * Printed Circuit Board 
