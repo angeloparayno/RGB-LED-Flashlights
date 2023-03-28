@@ -19,4 +19,4 @@ Source File: [/blob/main/avr/main.c](https://github.com/angeloparayno/RGB-LED-Fl
 ![](https://github.com/angeloparayno/RGB-LED-Flashlights/blob/main/Diagrams%20(RGB)/Finished%20Product/Finished%20Product.png)
 
 ---
-Still work on progress...
+Work in Progress..
